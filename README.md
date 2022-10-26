@@ -14,7 +14,7 @@ yarn add mscraper # YARN
 Initialize
 
 ```ts
-import mscraper from './main';
+import mscraper from 'mscraper';
 
 // From string
 const scraper = new mscraper(

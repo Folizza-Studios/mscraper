@@ -1,6 +1,6 @@
 {
     "name": "mscraper",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Easily scrape metadata from any url or html",
     "main": "index.js",
     "repository": "https://github.com/Folizza-Studios/mscraper",
